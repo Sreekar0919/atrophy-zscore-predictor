@@ -1,0 +1,56 @@
+Patient ID: P0001
+Age: 75
+Gender: Male
+
+Clinical Note:
+**CLINICAL NOTE**
+
+**Date:** March 15, 2024  
+**Patient:** Margaret Thompson  
+**DOB:** 08/12/1957 (Age 66)  
+**Gender:** Female
+
+**CHIEF COMPLAINT:**
+"I'm having trouble finding the right words when I talk, and my family says I'm acting differently."
+
+**HISTORY OF PRESENT ILLNESS:**
+Mrs. Thompson is a 66-year-old retired high school English teacher who presents with a 14-month history of progressive language difficulties and behavioral changes. She reports that her symptoms began gradually around January 2023 when she first noticed difficulty finding specific words during conversations. "I know what I want to say, but the word just won't come to me," she explains. "It's like it's on the tip of my tongue, but I can't get it out."
+
+The patient describes increasing frustration with these word-finding difficulties, which have progressively worsened. She states, "I used to be so articulate - I taught English for 35 years - and now I feel like I sound stupid when I talk." She reports that she often has to use simpler words or talk around what she's trying to say. "Instead of saying 'refrigerator,' I might say 'the cold thing in the kitchen where we keep food.'"
+
+Mrs. Thompson also reports changes in her behavior that her husband and adult children have noticed. "My husband says I've become more impatient and irritable, especially when I can't find the words I need," she states. She admits to feeling more frustrated than usual and sometimes having outbursts when things don't go as planned. "Last week, I got really angry at the grocery store clerk because she couldn't understand what I was asking for. That's not like me at all."
+
+The patient describes difficulty with reading comprehension, which is particularly distressing given her background as an English teacher. "I can read the words, but sometimes I don't understand what I've just read. I have to read sentences over and over again." She has stopped reading novels, something she previously enjoyed daily. She also reports difficulty following complex conversations, especially in group settings or when there's background noise.
+
+Mrs. Thompson states that these symptoms have significantly impacted her daily life. She has withdrawn from her book club and volunteer activities at the library. "I'm embarrassed because I can't participate in discussions like I used to." She reports that cooking has become more challenging because she sometimes forgets ingredients or has trouble following recipes she's used for years.
+
+Her husband accompanies her today and confirms the timeline and progression of symptoms. He notes that she has become more withdrawn socially and seems to avoid situations where she needs to speak at length.
+
+**CLINICAL OBSERVATIONS:**
+During the interview, Mrs. Thompson appeared well-groomed and appropriately dressed. She demonstrated noticeable word-finding difficulties throughout our conversation, often pausing mid-sentence and appearing frustrated when unable to retrieve specific words. She frequently used circumlocution, describing objects or concepts rather than naming them directly. For example, when discussing her symptoms, she referred to her "thinking problems" rather than using more specific terminology.
+
+Her speech was fluent but contained several instances where she substituted simpler words for more complex ones. She appeared to understand most questions but occasionally asked for clarification on more complex inquiries. Her mood appeared somewhat anxious and frustrated, particularly when discussing the impact of her symptoms on her daily activities.
+
+**PAST MEDICAL HISTORY:**
+- Hypertension, well-controlled on lisinopril
+- Osteoarthritis in knees
+- No history of stroke, head injury, or seizures
+- No history of depression or other psychiatric conditions
+
+**FAMILY HISTORY:**
+- Father died at age 78 of heart disease
+- Mother died at age 82 of "old age" - patient reports mother had some memory problems in her final years but was never formally evaluated
+- One brother, age 63, healthy
+- No known family history of early-onset memory or language problems
+
+**SOCIAL HISTORY:**
+- Retired high school English teacher (taught for 35 years)
+- Married for 42 years, lives with husband
+- Two adult children who live nearby
+- Non-smoker, occasional social alcohol use
+- Previously very active in community organizations and book clubs
+
+**ASSESSMENT AND PLAN:**
+Mrs. Thompson presents with a 14-month history of progressive word-finding difficulties and behavioral changes that are significantly impacting her daily functioning and quality of life. Given the nature and progression of her symptoms, I will be referring her to neurology
+================================================================================
+

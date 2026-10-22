@@ -1,0 +1,43 @@
+Z-Score Comparison Analysis Report
+==================================================
+
+Basic Statistics:
+--------------------
+Number of regions in dataset 1: 10
+Number of regions in dataset 2: 71
+
+Region Overlap Analysis:
+--------------------
+Number of overlapping regions: 7
+Regions unique to dataset 1: G_occipit-temp_med-Parahippocampal_part, G_cingulate-Main_part, G_temporal_sup-G_temp_transv_and_interm_S
+Regions unique to dataset 2: S_oc_middle_and_Lunatus, G_precentral, Lat_Fis-ant-Vertical, S_calcarine, S_collat_transv_ant, S_pericallosal, Pole_occipital, G_rectus, S_oc-temp_lat, S_oc-temp_med_and_Lingual, S_temporal_inf, S_orbital_lateral, G_and_S_cingul-Mid-Post, S_orbital-H_Shaped, G_cingul-Post-dorsal, G_temp_sup-Plan_polar, G_postcentral, S_interm_prim-Jensen, S_temporal_transverse, G_oc-temp_med-Lingual, S_occipital_ant, S_oc_sup_and_transversal, S_front_middle, G_subcallosal, G_and_S_cingul-Ant, G_temp_sup-Plan_tempo, S_central, G_and_S_paracentral, S_front_inf, G_Ins_lg_and_S_cent_ins, G_temporal_sup, G_oc-temp_lat-fusifor, S_postcentral, G_parietal_sup, G_and_S_transv_frontopol, S_orbital_med-olfact, G_occipital_sup, G_pariet_inf-Supramar, S_precentral-sup-part, G_temp_sup-Lateral, S_precentral-inf-part, S_collat_transv_post, S_intrapariet_and_P_trans, Lat_Fis-ant-Horizont, S_parieto_occipital, Pole_temporal, S_cingul-Marginalis, G_occipital_middle, S_temporal_sup, G_front_sup, G_and_S_occipital_inf, S_subparietal, G_and_S_cingul-Mid-Ant, Lat_Fis-post, S_suborbital, G_front_inf-Opercular, S_front_sup, G_temporal_inf, G_cingul-Post-ventral, G_precuneus, G_front_inf-Orbital, G_orbital, G_and_S_subcentral, G_temp_sup-G_T_transv
+
+Correlation Analysis:
+--------------------
+Pearson correlation: -0.669
+Spearman correlation: -0.650
+Kendall correlation: -0.507
+
+Z-Score Comparison Statistics:
+--------------------
+Mean absolute difference: 1.514
+Max absolute difference: 2.500
+Standard deviation of differences: 1.564
+
+Regions with Significant Differences (>1.0 z-score):
+--------------------
+G_and_S_frontomargin (Left): Difference = -2.50
+G_front_inf-Triangul (Left): Difference = -2.30
+G_front_middle (Left): Difference = -2.10
+G_insular_short (Left): Difference = -1.50
+G_temporal_middle (Left): Difference = 1.20
+
+Lateralization Analysis:
+--------------------
+patient1: 0.00 right-dominant
+patient2: 0.16 right-dominant
+
+Overall Pattern Similarity:
+--------------------
+Similarity score: -0.088
+(1.0 = identical patterns, 0.0 = completely different patterns)
